@@ -1,14 +1,14 @@
-#Kotapk
+# Kotapk
 分析应用宝 TOP 应用使用 Kotlin 的情况
 
-#使用
+# 使用
 - 下载源码
 - `gradle kotapk`
 
-#判断依据
+# 判断依据
 kotlin 会将一些信息打包进apk，如果 apk 中有文件名包含 "kotlin" 的文件，可以认为这个应用使用了 kotlin
 
-#结果
+# 结果
 2017-11-03日结果如下：
 (10/120)
 - 手机百度
